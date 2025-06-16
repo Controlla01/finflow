@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\bin\Debug\DIFFERENCE OF NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\bin\Debug\DIFFERENCE OF NUMBERS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\bin\Debug\DIFFERENCE OF NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\obj\x86\Debug\DIFFERENCE OF NUMBERS.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\obj\x86\Debug\DIFFERENCE OF NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\obj\x86\Debug\DIFFERENCE OF NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\DIFFERENCE OF NUMBERS\DIFFERENCE OF NUMBERS\obj\x86\Debug\DIFFERENCE OF NUMBERS.pdb

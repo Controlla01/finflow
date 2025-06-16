@@ -1,0 +1,27 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.MainForm.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\bin\Debug\Windows_AGE_CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.MainForm.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\Windows_AGE_CALCULATOR\Windows_AGE_CALCULATOR\obj\x86\Debug\Windows_AGE_CALCULATOR.vbproj.GenerateResource.Cache

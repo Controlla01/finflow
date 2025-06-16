@@ -1,0 +1,36 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\bin\Debug\FactoriaWidows.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\bin\Debug\FactoriaWidows.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\bin\Debug\FactoriaWidows.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\FactoriaWidows\obj\x86\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\bin\Debug\FactoriaWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\FactoriaWidows\FactoriaWidows\obj\x86\Debug\FactoriaWidows.vbproj.GenerateResource.Cache

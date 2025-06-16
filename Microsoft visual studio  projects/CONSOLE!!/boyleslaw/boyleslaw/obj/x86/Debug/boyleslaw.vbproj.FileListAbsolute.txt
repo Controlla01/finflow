@@ -1,0 +1,16 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\bin\Debug\boyleslaw.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\bin\Debug\boyleslaw.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\bin\Debug\boyleslaw.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\obj\x86\Debug\boyleslaw.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\obj\x86\Debug\boyleslaw.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\obj\x86\Debug\boyleslaw.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\obj\x86\Debug\boyleslaw.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\boyleslaw\obj\x86\Debug\boyleslaw.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\obj\x86\Debug\boyleslaw.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\obj\x86\Debug\boyleslaw.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\obj\x86\Debug\boyleslaw.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\bin\Debug\boyleslaw.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\bin\Debug\boyleslaw.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\bin\Debug\boyleslaw.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\obj\x86\Debug\boyleslaw.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\boyleslaw\boyleslaw\obj\x86\Debug\boyleslaw.vbproj.GenerateResource.Cache

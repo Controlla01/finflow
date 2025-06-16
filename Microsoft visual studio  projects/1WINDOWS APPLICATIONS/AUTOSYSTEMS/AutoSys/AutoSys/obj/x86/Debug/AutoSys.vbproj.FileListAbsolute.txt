@@ -1,0 +1,24 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\bin\Debug\AutoSys.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\bin\Debug\AutoSys.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\bin\Debug\AutoSys.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\AutoSys\obj\x86\Debug\AutoSys.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\bin\Debug\AutoSys.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\bin\Debug\AutoSys.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\bin\Debug\AutoSys.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.records.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\bin\Debug\MySql.Data.DLL
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.main.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AUTOSYSTEMS\AutoSys\AutoSys\obj\x86\Debug\AutoSys.index.resources

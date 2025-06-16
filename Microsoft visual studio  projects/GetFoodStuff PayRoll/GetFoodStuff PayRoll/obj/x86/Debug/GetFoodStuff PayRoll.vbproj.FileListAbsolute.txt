@@ -1,0 +1,53 @@
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.exe
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.pdb
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.xml
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.Resources.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.vbproj.GenerateResource.Cache
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.exe
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.xml
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.pdb
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\Guna.UI2.dll
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.home_page.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.overlay.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.register_staff_form.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.login_form.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_payment_form.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.admin_dashboard.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\MySql.Data.DLL
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.vbprojResolveAssemblyReference.cache
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.reset_finish.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.reset_password.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.add_branch_form.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.add_department.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.exe
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.xml
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.pdb
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.exe
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.pdb
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\bin\Debug\GetFoodStuff PayRoll.xml
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.add_branch_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.add_department.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.admin_dashboard.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.home_page.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.login_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.overlay.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.register_staff_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.reset_finish.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.reset_password.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_payment_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff PayRoll.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.Staff_dashboard.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.view_staff_payment_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_login_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_reset_finish.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_reset_password.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_db_schedules.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staffs_payroll_form.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_db_announcements.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_db_reports.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.staff_salary_update.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.payroll_gangan.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.view_staff_records.resources
+C:\Users\Admin\Documents\AFOOTECH\GetFoodStuff PayRoll\GetFoodStuff PayRoll\obj\x86\Debug\GetFoodStuff_PayRoll.job_grade1.resources

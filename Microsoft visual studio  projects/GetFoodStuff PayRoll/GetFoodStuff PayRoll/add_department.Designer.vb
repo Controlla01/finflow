@@ -1,0 +1,326 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class add_department
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(add_department))
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.close_btn = New System.Windows.Forms.Button()
+        Me.Guna2GroupBox1 = New Guna.UI2.WinForms.Guna2GroupBox()
+        Me.back_btn = New Guna.UI2.WinForms.Guna2Button()
+        Me.dept_id_combo = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.fetch_btn = New Guna.UI2.WinForms.Guna2Button()
+        Me.Guna2GroupBox3 = New Guna.UI2.WinForms.Guna2GroupBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.status_combo = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.clear_btn = New Guna.UI2.WinForms.Guna2Button()
+        Me.create_btn = New Guna.UI2.WinForms.Guna2Button()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.dept_name_txt = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.Panel1.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Guna2GroupBox1.SuspendLayout()
+        Me.Guna2GroupBox3.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'Panel1
+        '
+        Me.Panel1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Panel1.BackColor = System.Drawing.Color.White
+        Me.Panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel1.Controls.Add(Me.PictureBox1)
+        Me.Panel1.Controls.Add(Me.close_btn)
+        Me.Panel1.Location = New System.Drawing.Point(0, 0)
+        Me.Panel1.Margin = New System.Windows.Forms.Padding(4)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(794, 49)
+        Me.Panel1.TabIndex = 7
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(-1, -1)
+        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(243, 49)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 1
+        Me.PictureBox1.TabStop = False
+        '
+        'close_btn
+        '
+        Me.close_btn.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.close_btn.BackColor = System.Drawing.Color.Red
+        Me.close_btn.FlatAppearance.BorderSize = 0
+        Me.close_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.close_btn.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.close_btn.ForeColor = System.Drawing.SystemColors.HighlightText
+        Me.close_btn.Location = New System.Drawing.Point(741, -1)
+        Me.close_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.close_btn.Name = "close_btn"
+        Me.close_btn.Size = New System.Drawing.Size(51, 48)
+        Me.close_btn.TabIndex = 0
+        Me.close_btn.Text = "X"
+        Me.close_btn.UseVisualStyleBackColor = False
+        '
+        'Guna2GroupBox1
+        '
+        Me.Guna2GroupBox1.BorderRadius = 5
+        Me.Guna2GroupBox1.Controls.Add(Me.back_btn)
+        Me.Guna2GroupBox1.Controls.Add(Me.dept_id_combo)
+        Me.Guna2GroupBox1.Controls.Add(Me.fetch_btn)
+        Me.Guna2GroupBox1.CustomBorderColor = System.Drawing.Color.FromArgb(CType(CType(62, Byte), Integer), CType(CType(142, Byte), Integer), CType(CType(40, Byte), Integer))
+        Me.Guna2GroupBox1.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GroupBox1.ForeColor = System.Drawing.Color.White
+        Me.Guna2GroupBox1.Location = New System.Drawing.Point(29, 66)
+        Me.Guna2GroupBox1.Margin = New System.Windows.Forms.Padding(4)
+        Me.Guna2GroupBox1.Name = "Guna2GroupBox1"
+        Me.Guna2GroupBox1.ShadowDecoration.Parent = Me.Guna2GroupBox1
+        Me.Guna2GroupBox1.Size = New System.Drawing.Size(721, 193)
+        Me.Guna2GroupBox1.TabIndex = 12
+        Me.Guna2GroupBox1.Text = "DEPARTMENT PROFILE"
+        '
+        'back_btn
+        '
+        Me.back_btn.BorderRadius = 5
+        Me.back_btn.CheckedState.Parent = Me.back_btn
+        Me.back_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.back_btn.CustomImages.Parent = Me.back_btn
+        Me.back_btn.FillColor = System.Drawing.Color.FromArgb(CType(CType(62, Byte), Integer), CType(CType(143, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.back_btn.Font = New System.Drawing.Font("Segoe UI Semibold", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.back_btn.ForeColor = System.Drawing.Color.White
+        Me.back_btn.HoverState.Parent = Me.back_btn
+        Me.back_btn.Location = New System.Drawing.Point(25, 124)
+        Me.back_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.back_btn.Name = "back_btn"
+        Me.back_btn.ShadowDecoration.Parent = Me.back_btn
+        Me.back_btn.Size = New System.Drawing.Size(128, 52)
+        Me.back_btn.TabIndex = 13
+        Me.back_btn.Text = "BACK"
+        '
+        'dept_id_combo
+        '
+        Me.dept_id_combo.BackColor = System.Drawing.Color.Transparent
+        Me.dept_id_combo.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
+        Me.dept_id_combo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.dept_id_combo.FocusedColor = System.Drawing.Color.Empty
+        Me.dept_id_combo.FocusedState.Parent = Me.dept_id_combo
+        Me.dept_id_combo.Font = New System.Drawing.Font("Segoe UI", 10.0!)
+        Me.dept_id_combo.ForeColor = System.Drawing.Color.FromArgb(CType(CType(68, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(112, Byte), Integer))
+        Me.dept_id_combo.FormattingEnabled = True
+        Me.dept_id_combo.HoverState.Parent = Me.dept_id_combo
+        Me.dept_id_combo.ItemHeight = 30
+        Me.dept_id_combo.ItemsAppearance.Parent = Me.dept_id_combo
+        Me.dept_id_combo.Location = New System.Drawing.Point(25, 70)
+        Me.dept_id_combo.Margin = New System.Windows.Forms.Padding(4)
+        Me.dept_id_combo.Name = "dept_id_combo"
+        Me.dept_id_combo.ShadowDecoration.Parent = Me.dept_id_combo
+        Me.dept_id_combo.Size = New System.Drawing.Size(669, 36)
+        Me.dept_id_combo.TabIndex = 12
+        '
+        'fetch_btn
+        '
+        Me.fetch_btn.BorderRadius = 5
+        Me.fetch_btn.CheckedState.Parent = Me.fetch_btn
+        Me.fetch_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.fetch_btn.CustomImages.Parent = Me.fetch_btn
+        Me.fetch_btn.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(139, Byte), Integer), CType(CType(19, Byte), Integer))
+        Me.fetch_btn.Font = New System.Drawing.Font("Segoe UI Semibold", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.fetch_btn.ForeColor = System.Drawing.Color.White
+        Me.fetch_btn.HoverState.Parent = Me.fetch_btn
+        Me.fetch_btn.Location = New System.Drawing.Point(517, 124)
+        Me.fetch_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.fetch_btn.Name = "fetch_btn"
+        Me.fetch_btn.ShadowDecoration.Parent = Me.fetch_btn
+        Me.fetch_btn.Size = New System.Drawing.Size(179, 52)
+        Me.fetch_btn.TabIndex = 1
+        Me.fetch_btn.Text = "FETCH"
+        '
+        'Guna2GroupBox3
+        '
+        Me.Guna2GroupBox3.BorderRadius = 5
+        Me.Guna2GroupBox3.Controls.Add(Me.Label5)
+        Me.Guna2GroupBox3.Controls.Add(Me.status_combo)
+        Me.Guna2GroupBox3.Controls.Add(Me.clear_btn)
+        Me.Guna2GroupBox3.Controls.Add(Me.create_btn)
+        Me.Guna2GroupBox3.Controls.Add(Me.Label3)
+        Me.Guna2GroupBox3.Controls.Add(Me.dept_name_txt)
+        Me.Guna2GroupBox3.CustomBorderColor = System.Drawing.Color.FromArgb(CType(CType(62, Byte), Integer), CType(CType(142, Byte), Integer), CType(CType(40, Byte), Integer))
+        Me.Guna2GroupBox3.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GroupBox3.ForeColor = System.Drawing.Color.White
+        Me.Guna2GroupBox3.Location = New System.Drawing.Point(35, 304)
+        Me.Guna2GroupBox3.Margin = New System.Windows.Forms.Padding(4)
+        Me.Guna2GroupBox3.Name = "Guna2GroupBox3"
+        Me.Guna2GroupBox3.ShadowDecoration.Parent = Me.Guna2GroupBox3
+        Me.Guna2GroupBox3.Size = New System.Drawing.Size(716, 427)
+        Me.Guna2GroupBox3.TabIndex = 11
+        Me.Guna2GroupBox3.Text = "CREATE DEPARTMENT"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
+        Me.Label5.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.ForeColor = System.Drawing.Color.Black
+        Me.Label5.Location = New System.Drawing.Point(41, 207)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(67, 23)
+        Me.Label5.TabIndex = 12
+        Me.Label5.Text = "STATUS"
+        '
+        'status_combo
+        '
+        Me.status_combo.BackColor = System.Drawing.Color.Transparent
+        Me.status_combo.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
+        Me.status_combo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.status_combo.FocusedColor = System.Drawing.Color.Empty
+        Me.status_combo.FocusedState.Parent = Me.status_combo
+        Me.status_combo.Font = New System.Drawing.Font("Segoe UI", 10.0!)
+        Me.status_combo.ForeColor = System.Drawing.Color.FromArgb(CType(CType(68, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(112, Byte), Integer))
+        Me.status_combo.FormattingEnabled = True
+        Me.status_combo.HoverState.Parent = Me.status_combo
+        Me.status_combo.ItemHeight = 30
+        Me.status_combo.ItemsAppearance.Parent = Me.status_combo
+        Me.status_combo.Location = New System.Drawing.Point(45, 234)
+        Me.status_combo.Margin = New System.Windows.Forms.Padding(4)
+        Me.status_combo.Name = "status_combo"
+        Me.status_combo.ShadowDecoration.Parent = Me.status_combo
+        Me.status_combo.Size = New System.Drawing.Size(632, 36)
+        Me.status_combo.TabIndex = 11
+        '
+        'clear_btn
+        '
+        Me.clear_btn.BorderRadius = 5
+        Me.clear_btn.CheckedState.Parent = Me.clear_btn
+        Me.clear_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.clear_btn.CustomImages.Parent = Me.clear_btn
+        Me.clear_btn.FillColor = System.Drawing.Color.DarkRed
+        Me.clear_btn.Font = New System.Drawing.Font("Segoe UI Semibold", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clear_btn.ForeColor = System.Drawing.Color.White
+        Me.clear_btn.HoverState.Parent = Me.clear_btn
+        Me.clear_btn.Location = New System.Drawing.Point(420, 322)
+        Me.clear_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.clear_btn.Name = "clear_btn"
+        Me.clear_btn.ShadowDecoration.Parent = Me.clear_btn
+        Me.clear_btn.Size = New System.Drawing.Size(259, 50)
+        Me.clear_btn.TabIndex = 10
+        Me.clear_btn.Text = "CLEAR"
+        '
+        'create_btn
+        '
+        Me.create_btn.BorderRadius = 5
+        Me.create_btn.CheckedState.Parent = Me.create_btn
+        Me.create_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.create_btn.CustomImages.Parent = Me.create_btn
+        Me.create_btn.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(139, Byte), Integer), CType(CType(19, Byte), Integer))
+        Me.create_btn.Font = New System.Drawing.Font("Segoe UI Semibold", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.create_btn.ForeColor = System.Drawing.Color.White
+        Me.create_btn.HoverState.Parent = Me.create_btn
+        Me.create_btn.Location = New System.Drawing.Point(51, 322)
+        Me.create_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.create_btn.Name = "create_btn"
+        Me.create_btn.ShadowDecoration.Parent = Me.create_btn
+        Me.create_btn.Size = New System.Drawing.Size(259, 50)
+        Me.create_btn.TabIndex = 10
+        Me.create_btn.Text = "SUBMIT"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.BackColor = System.Drawing.Color.Transparent
+        Me.Label3.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.ForeColor = System.Drawing.Color.Black
+        Me.Label3.Location = New System.Drawing.Point(39, 86)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(168, 23)
+        Me.Label3.TabIndex = 9
+        Me.Label3.Text = "DEPARTMENT NAME"
+        '
+        'dept_name_txt
+        '
+        Me.dept_name_txt.BorderColor = System.Drawing.Color.FromArgb(CType(CType(60, Byte), Integer), CType(CType(142, Byte), Integer), CType(CType(40, Byte), Integer))
+        Me.dept_name_txt.BorderRadius = 5
+        Me.dept_name_txt.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.dept_name_txt.DefaultText = ""
+        Me.dept_name_txt.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.dept_name_txt.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.dept_name_txt.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.dept_name_txt.DisabledState.Parent = Me.dept_name_txt
+        Me.dept_name_txt.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.dept_name_txt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.dept_name_txt.FocusedState.Parent = Me.dept_name_txt
+        Me.dept_name_txt.Font = New System.Drawing.Font("Segoe UI", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dept_name_txt.ForeColor = System.Drawing.Color.Black
+        Me.dept_name_txt.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.dept_name_txt.HoverState.Parent = Me.dept_name_txt
+        Me.dept_name_txt.Location = New System.Drawing.Point(40, 114)
+        Me.dept_name_txt.Margin = New System.Windows.Forms.Padding(8, 7, 8, 7)
+        Me.dept_name_txt.Name = "dept_name_txt"
+        Me.dept_name_txt.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.dept_name_txt.PlaceholderText = "ENTER DEPARTMENT NAME"
+        Me.dept_name_txt.SelectedText = ""
+        Me.dept_name_txt.ShadowDecoration.Parent = Me.dept_name_txt
+        Me.dept_name_txt.Size = New System.Drawing.Size(639, 55)
+        Me.dept_name_txt.TabIndex = 7
+        '
+        'add_department
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(792, 747)
+        Me.Controls.Add(Me.Guna2GroupBox1)
+        Me.Controls.Add(Me.Guna2GroupBox3)
+        Me.Controls.Add(Me.Panel1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Margin = New System.Windows.Forms.Padding(4)
+        Me.Name = "add_department"
+        Me.ShowInTaskbar = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "add_department"
+        Me.TopMost = True
+        Me.Panel1.ResumeLayout(False)
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Guna2GroupBox1.ResumeLayout(False)
+        Me.Guna2GroupBox3.ResumeLayout(False)
+        Me.Guna2GroupBox3.PerformLayout()
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
+    Friend WithEvents close_btn As System.Windows.Forms.Button
+    Friend WithEvents Guna2GroupBox1 As Guna.UI2.WinForms.Guna2GroupBox
+    Friend WithEvents dept_id_combo As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents fetch_btn As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Guna2GroupBox3 As Guna.UI2.WinForms.Guna2GroupBox
+    Friend WithEvents back_btn As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents status_combo As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents create_btn As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents dept_name_txt As Guna.UI2.WinForms.Guna2TextBox
+    Friend WithEvents clear_btn As Guna.UI2.WinForms.Guna2Button
+End Class

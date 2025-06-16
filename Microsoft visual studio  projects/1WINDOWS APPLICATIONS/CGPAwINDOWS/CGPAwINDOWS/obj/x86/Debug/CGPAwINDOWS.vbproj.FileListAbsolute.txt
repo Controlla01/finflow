@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\bin\Debug\CGPAwINDOWS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\CGPAwINDOWS\CGPAwINDOWS\obj\x86\Debug\CGPAwINDOWS.vbproj.GenerateResource.Cache

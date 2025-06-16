@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F87F3280-24E4-404C-879E-B759ADF5D77E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GetFoodStuff_PayRoll.My.MyApplication</StartupObject>
+    <RootNamespace>GetFoodStuff_PayRoll</RootNamespace>
+    <AssemblyName>GetFoodStuff PayRoll</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GetFoodStuff PayRoll.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GetFoodStuff PayRoll.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Software\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_branch_form.Designer.vb">
+      <DependentUpon>add_branch_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_branch_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_department.Designer.vb">
+      <DependentUpon>add_department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_dashboard.Designer.vb">
+      <DependentUpon>admin_dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="functions.vb" />
+    <Compile Include="job_grade1.Designer.vb">
+      <DependentUpon>job_grade1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="job_grade1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_form.Designer.vb">
+      <DependentUpon>login_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="overlay.Designer.vb">
+      <DependentUpon>overlay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="overlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payroll_gangan.Designer.vb">
+      <DependentUpon>payroll_gangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="payroll_gangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register_staff_form.Designer.vb">
+      <DependentUpon>register_staff_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="register_staff_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reset_finish.Designer.vb">
+      <DependentUpon>reset_finish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reset_finish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reset_password.Designer.vb">
+      <DependentUpon>reset_password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reset_password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffs_payroll_form.Designer.vb">
+      <DependentUpon>staffs_payroll_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staffs_payroll_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff_dashboard.Designer.vb">
+      <DependentUpon>Staff_dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Staff_dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_db_announcements.Designer.vb">
+      <DependentUpon>staff_db_announcements.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_db_announcements.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_db_reports.Designer.vb">
+      <DependentUpon>staff_db_reports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_db_reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_db_schedules.Designer.vb">
+      <DependentUpon>staff_db_schedules.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_db_schedules.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_login_form.Designer.vb">
+      <DependentUpon>staff_login_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_login_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_payment_form.Designer.vb">
+      <DependentUpon>staff_payment_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_payment_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_reset_finish.Designer.vb">
+      <DependentUpon>staff_reset_finish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_reset_finish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_reset_password.Designer.vb">
+      <DependentUpon>staff_reset_password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_reset_password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff_salary_update.Designer.vb">
+      <DependentUpon>staff_salary_update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff_salary_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_staff_payment_form.Designer.vb">
+      <DependentUpon>view_staff_payment_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_staff_payment_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_staff_records.Designer.vb">
+      <DependentUpon>view_staff_records.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_staff_records.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="add_branch_form.resx">
+      <DependentUpon>add_branch_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_department.resx">
+      <DependentUpon>add_department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_dashboard.resx">
+      <DependentUpon>admin_dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="job_grade1.resx">
+      <DependentUpon>job_grade1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_form.resx">
+      <DependentUpon>login_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="overlay.resx">
+      <DependentUpon>overlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payroll_gangan.resx">
+      <DependentUpon>payroll_gangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register_staff_form.resx">
+      <DependentUpon>register_staff_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reset_finish.resx">
+      <DependentUpon>reset_finish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reset_password.resx">
+      <DependentUpon>reset_password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffs_payroll_form.resx">
+      <DependentUpon>staffs_payroll_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff_dashboard.resx">
+      <DependentUpon>Staff_dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_db_announcements.resx">
+      <DependentUpon>staff_db_announcements.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_db_reports.resx">
+      <DependentUpon>staff_db_reports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_db_schedules.resx">
+      <DependentUpon>staff_db_schedules.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_login_form.resx">
+      <DependentUpon>staff_login_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_payment_form.resx">
+      <DependentUpon>staff_payment_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_reset_finish.resx">
+      <DependentUpon>staff_reset_finish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_reset_password.resx">
+      <DependentUpon>staff_reset_password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_salary_update.resx">
+      <DependentUpon>staff_salary_update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_staff_payment_form.resx">
+      <DependentUpon>view_staff_payment_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_staff_records.resx">
+      <DependentUpon>view_staff_records.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21-214439_free-high-quality-person-icon-default-profile-picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about-me-icon-1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

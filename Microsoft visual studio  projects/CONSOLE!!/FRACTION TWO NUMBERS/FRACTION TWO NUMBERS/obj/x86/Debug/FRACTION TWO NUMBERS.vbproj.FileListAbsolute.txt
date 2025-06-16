@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\bin\Debug\FRACTION TWO NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\bin\Debug\FRACTION TWO NUMBERS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\bin\Debug\FRACTION TWO NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\obj\x86\Debug\FRACTION TWO NUMBERS.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\obj\x86\Debug\FRACTION TWO NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\obj\x86\Debug\FRACTION TWO NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\FRACTION TWO NUMBERS\FRACTION TWO NUMBERS\obj\x86\Debug\FRACTION TWO NUMBERS.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\bin\Debug\PRODUCT OF  TWO NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\bin\Debug\PRODUCT OF  TWO NUMBERS.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\bin\Debug\PRODUCT OF  TWO NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\obj\x86\Debug\PRODUCT OF  TWO NUMBERS.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\obj\x86\Debug\PRODUCT OF  TWO NUMBERS.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\obj\x86\Debug\PRODUCT OF  TWO NUMBERS.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\PRODUCT OF  TWO NUMBERS\PRODUCT OF  TWO NUMBERS\obj\x86\Debug\PRODUCT OF  TWO NUMBERS.pdb

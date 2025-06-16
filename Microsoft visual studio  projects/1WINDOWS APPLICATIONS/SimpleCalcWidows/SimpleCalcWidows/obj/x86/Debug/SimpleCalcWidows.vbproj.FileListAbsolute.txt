@@ -1,0 +1,30 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\bin\Debug\SimpleCalc.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalc.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalc.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalcWidows.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalc.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalc.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\SimpleCalc\obj\x86\Debug\SimpleCalc.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalc.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalc.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\bin\Debug\SimpleCalcWidows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalc.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalc.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\SimpleCalcWidows\SimpleCalcWidows\obj\x86\Debug\SimpleCalcWidows.vbproj.GenerateResource.Cache

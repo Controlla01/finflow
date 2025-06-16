@@ -1,0 +1,35 @@
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.exe
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.pdb
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.xml
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.exe
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.xml
+c:\users\hp\documents\visual studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.exe
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.xml
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.pdb
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.exe
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.pdb
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.xml
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Form1.resources
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Resources.resources
+C:\Users\Admin\Desktop\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.exe.manifest
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\bin\Debug\GP_CALCULATOR_WIN.application
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.exe.manifest
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\GP_CALCULATOR_WIN\GP_CALCULATOR_WIN\obj\x86\Debug\GP_CALCULATOR_WIN.application

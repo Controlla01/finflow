@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\bin\Debug\WindowsMultiLittle.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WindowsMultiLittle\WindowsMultiLittle\obj\x86\Debug\WindowsMultiLittle.vbproj.GenerateResource.Cache

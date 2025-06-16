@@ -1,0 +1,24 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\obj\x86\Debug\ALLFunctions.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\obj\x86\Debug\ALLFunctions.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\bin\Debug\ALLFunctions.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\bin\Debug\ALLFunctions.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\bin\Debug\ALLFunctions.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\obj\x86\Debug\ALLFunctions.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\obj\x86\Debug\ALLFunctions.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\ALLFunctions\obj\x86\Debug\ALLFunctions.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\bin\Debug\ALLFunctions.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\ALLFunctions\ALLFunctions\obj\x86\Debug\ALLFunctions.vbproj.GenerateResource.Cache

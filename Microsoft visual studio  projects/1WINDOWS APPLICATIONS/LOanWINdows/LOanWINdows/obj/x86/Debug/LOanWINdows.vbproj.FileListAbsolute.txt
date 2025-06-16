@@ -1,0 +1,21 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\bin\Debug\LOanWINdows.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\bin\Debug\LOanWINdows.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\bin\Debug\LOanWINdows.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LOanWINdows\obj\x86\Debug\LOanWINdows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\bin\Debug\LOanWINdows.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\bin\Debug\LOanWINdows.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\bin\Debug\LOanWINdows.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\LOanWINdows\LOanWINdows\obj\x86\Debug\LOanWINdows.vbproj.GenerateResource.Cache

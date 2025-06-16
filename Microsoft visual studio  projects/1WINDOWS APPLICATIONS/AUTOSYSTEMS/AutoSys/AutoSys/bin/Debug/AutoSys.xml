@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutoSys
+</name>
+</assembly>
+<members>
+<member name="P:AutoSys.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AutoSys.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AutoSys.My.Resources.Resources._21_214439_free_high_quality_person_icon_default_profile_picture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutoSys.My.Resources.Resources.illustration_of_human_icon_user_symbol_icon_modern_design_on_blank_background_free_vector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutoSys.My.Resources.Resources.WhatsApp_Image_2024_11_21_at_16_59_45_d320515a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutoSys.My.Resources.Resources.WhatsApp_Image_2025_02_19_at_11_44_08_0c13be77">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AutoSys.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

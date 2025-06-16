@@ -1,0 +1,21 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\bin\Debug\Gp_calculator_Windows_2.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\Gp_calculator_Windows_2\Gp_calculator_Windows_2\obj\x86\Debug\Gp_calculator_Windows_2.pdb

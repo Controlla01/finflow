@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\bin\Debug\Quadracticequatio.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\bin\Debug\Quadracticequatio.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\bin\Debug\Quadracticequatio.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\CONSOLE!!\Quadractic equation\Quadracticequatio\obj\x86\Debug\Quadracticequatio.pdb

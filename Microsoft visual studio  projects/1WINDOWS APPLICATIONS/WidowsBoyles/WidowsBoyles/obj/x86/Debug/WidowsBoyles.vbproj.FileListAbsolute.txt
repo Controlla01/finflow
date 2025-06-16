@@ -1,0 +1,27 @@
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\bin\Debug\WidowsBoyles.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\WidowsBoyles\WidowsBoyles\obj\x86\Debug\WidowsBoyles.vbproj.GenerateResource.Cache

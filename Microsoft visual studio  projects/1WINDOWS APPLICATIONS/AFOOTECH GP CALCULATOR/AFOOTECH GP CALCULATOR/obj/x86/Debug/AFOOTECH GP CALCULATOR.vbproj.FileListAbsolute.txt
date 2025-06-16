@@ -1,0 +1,34 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\AFOOTECH GP CALCULATOR\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.exe
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.pdb
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.xml
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Form1.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH_GP_CALCULATOR.Resources.resources
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.exe.manifest
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\bin\Debug\AFOOTECH GP CALCULATOR.application
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.exe.manifest
+C:\Users\Admin\Documents\AFOOTECH\Microsoft visual studio  projects\1WINDOWS APPLICATIONS\AFOOTECH GP CALCULATOR\AFOOTECH GP CALCULATOR\obj\x86\Debug\AFOOTECH GP CALCULATOR.application

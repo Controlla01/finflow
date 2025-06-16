@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ALLFunctions", "ALLFunctions\ALLFunctions.vbproj", "{46DA31D2-0FD3-40BC-A406-3FD00BCA74CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DA31D2-0FD3-40BC-A406-3FD00BCA74CC}.Debug|x86.ActiveCfg = Debug|x86
+		{46DA31D2-0FD3-40BC-A406-3FD00BCA74CC}.Debug|x86.Build.0 = Debug|x86
+		{46DA31D2-0FD3-40BC-A406-3FD00BCA74CC}.Release|x86.ActiveCfg = Release|x86
+		{46DA31D2-0FD3-40BC-A406-3FD00BCA74CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
